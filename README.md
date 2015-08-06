@@ -10,3 +10,4 @@ Gebruik dit script met Tampermonkey for Chrome: http://tampermonkey.net/
 
 ## Screenshot
 
+![Screenshot](https://cloud.githubusercontent.com/assets/661876/9125326/fe4dd7f0-3c9f-11e5-8b58-e43c243e89f3.PNG)
